@@ -316,6 +316,7 @@ For project-related inquiries, technical discussions, collaboration opportunitie
 * **Project Email:** [synapse.project.official@gmail.com](mailto:synapse.project.official@gmail.com) *(Preferred for Synapse OS inquiries)*
 * **Professional Email:** [aromalism.official@gmail.com](mailto:aromalism.official@gmail.com)
 * **GitHub Organization:** https://github.com/synapse-eco
+* **GitHub Personal:**https://github.com/aromalism
 * **LinkedIn:** https://www.linkedin.com/in/aromalism
 
 ---
