@@ -135,7 +135,7 @@ Research & Experimentation
            │
            ▼
  Synapse Distribution
-
+```
 
 > **Note:** While the repositories above have distinct responsibilities, **Synapse Assets** supports the entire ecosystem by providing the official visual resources and branding used across documentation, websites, applications, themes, releases, and community materials.
 
