@@ -103,6 +103,48 @@ This approach makes the project realistic while still allowing for a very ambiti
 
 ---
 
+## Repository Overview
+
+The Synapse ecosystem is organized into purpose-specific repositories. Each repository has a single, well-defined responsibility, promoting a clean architecture, maintainable workflows, and scalable development.
+
+| Repository               | Purpose                                                                                                                                                                                                                                                                                                                                            | Status  |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| **.github**              | Organization profile, community health files, contribution guidelines, issue templates, workflows, and shared GitHub configuration.                                                                                                                                                                                                                | Active  |
+| **synapse-workspace**    | Primary development workspace where the Synapse operating system and its supporting components are designed, developed, integrated, and maintained.                                                                                                                                                                                                | Active  |
+| **synapse-registry**     | Official package registry containing package databases, package metadata, and distributable packages used by the Synapse package manager.                                                                                                                                                                                                          | Active  |
+| **synapse-assets**       | Official repository for the Synapse ecosystem's visual assets, including branding resources, logos, icons, wallpapers, illustrations, theme assets, repository banners, design resources, and other shared graphical content. It provides a structured environment for designers and contributors to collaborate on the project's visual identity. | Active  |
+| **synapse-laboratory**   | Research and experimentation environment for prototypes, architectural concepts, and exploratory development before integration into the primary development workflow.                                                                                                                                                                             | Planned |
+| **synapse-distribution** | Official distribution repository for release artifacts, installation media, and versioned operating system builds.                                                                                                                                                                                                                                 | Planned |
+
+---
+
+## Development Workflow
+
+```text
+Research & Experimentation
+           │
+           ▼
+  Synapse Laboratory
+           │
+           ▼
+   Synapse Workspace
+           │
+           ▼
+ Build • Package • Validate
+           │
+           ▼
+   Synapse Registry
+           │
+           ▼
+ Synapse Distribution
+```
+
+> **Note:** While the repositories above have distinct responsibilities, **Synapse Assets** supports the entire ecosystem by providing the official visual resources and branding used across documentation, websites, applications, themes, releases, and community materials.
+
+Each repository is designed with a single responsibility, enabling independent development, clear ownership, and long-term scalability across the Synapse ecosystem.
+
+---
+
 ## Principles
 
 ### 1. Modular Growth
