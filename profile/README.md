@@ -289,6 +289,7 @@ The source code is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 ---
 
+...
 ## Closing Statement
 
 Synapse is not being built as a finished shape from day one.
@@ -296,3 +297,20 @@ Synapse is not being built as a finished shape from day one.
 It is being grown into one.
 
 **Genesis is the birthing state. Synapse is the sovereign emergence.**
+
+---
+
+## About the Founder
+
+Synapse OS is founded and independently developed by **Aromal J**.
+
+As the Founder and Lead Architect, I oversee the ecosystem’s long-term vision, system architecture, and design direction.
+
+This ensures coherence across all Synapse components, from core systems to visual identity.
+
+---
+
+## Contributing
+
+Contributions, ideas, and technical suggestions are welcome.
+...
