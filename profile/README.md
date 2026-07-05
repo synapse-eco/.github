@@ -302,11 +302,21 @@ It is being grown into one.
 
 ## About the Founder
 
-Synapse OS is founded and independently developed by **Aromal J**.
+**Synapse OS** is founded and independently developed by **Aromal J**.
 
-As the Founder and Lead Architect, I oversee the ecosystem’s long-term vision, system architecture, and design direction.
+As the **Founder and Lead Architect**, I oversee the ecosystem's long-term vision, system architecture, engineering direction, and design philosophy. My role is to ensure consistency, maintainability, and architectural coherence across every component of the Synapse ecosystem as it evolves.
 
-This ensures coherence across all Synapse components, from core systems to visual identity.
+For project-related inquiries, technical discussions, collaboration opportunities, or general feedback, feel free to reach out using any of the contact methods below.
+
+### Contact
+
+* **Name:** Aromal J
+* **Public Handle:** `aromalism`
+* **Role:** Founder and Lead Architect
+* **Project Email:** [synapse.project.official@gmail.com](mailto:synapse.project.official@gmail.com) *(Preferred for Synapse OS inquiries)*
+* **Professional Email:** [aromalism.official@gmail.com](mailto:aromalism.official@gmail.com)
+* **GitHub Organization:** https://github.com/synapse-eco
+* **LinkedIn:** https://www.linkedin.com/in/aromalism
 
 ---
 
