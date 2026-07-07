@@ -1,4 +1,4 @@
-![Sovereign Yield of Networked Architectures, Paradigms, Systems, and Ecosystems](https://github.com/synapse-eco/synapse-assets/blob/main/wallpapers/png/Synapse-Genesis-Signature.png)
+![Sovereign Yield of Networked Architectures, Paradigms, Systems, and Ecosystems](https://github.com/synapse-eco/synapse-assets/blob/main/logos/png/Synapse-official-horizontal-no-nodes.png)
 
 ---
 # Synapse OS
